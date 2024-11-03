@@ -94,7 +94,7 @@ body{
       h1 {
         font-family: 'Poppins';
         color: #fff;
-        font-size: 60px;
+        font-size: 50px;
         -webkit-animation: mainFadeIn 2s forwards;
         -o-animation: mainFadeIn 2s forwards;
         animation: mainFadeIn 2s forwards;
